@@ -49,7 +49,7 @@ STS
 
 ```
 깃 저장소를 로컬에 복사합니다.
-git clone https://lab.ssafy.com/s03-webmobile2-sub2/s03p12a307.git
+git clone https://github.com/myh9410/GoodDoc-Proj.git
 ```
 
 ### Frontend
@@ -67,10 +67,10 @@ skeleton-back 패키지 우클릭 -> run as -> Spring Boot App
 ## 📜 기획
 
 ### 와이어프레임 
-[이동하기](https://lab.ssafy.com/s03-webmobile2-sub2/s03p12a307/blob/develop/doc/_%EC%84%9C%EC%9A%B8A307_%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84.pdf)
+[이동하기](https://github.com/myh9410/GoodDoc-Proj/blob/develop/doc/_%EC%84%9C%EC%9A%B8A307_%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84.pdf)
 
-### ERD (추후 수정 요망) 
-[이동하기](https://lab.ssafy.com/s03-webmobile2-sub2/s03p12a307/blob/develop/doc/_%EC%84%9C%EC%9A%B8_A307_Database_ERD.png)
+### ERD 
+[이동하기](https://github.com/myh9410/GoodDoc-Proj/blob/develop/doc/%EC%84%9C%EC%9A%B8_A307_Database_ERD.png)
 
 ---
 
@@ -92,33 +92,6 @@ skeleton-back 패키지 우클릭 -> run as -> Spring Boot App
  ┃ ┃ ┣ 📜style.scss
  ┃ ┃ ┗ 📜user.scss
  ┃ ┣ 📂images
- ┃ ┃ ┣ 📂hospital
- ┃ ┃ ┃ ┣ 📜hospital1.png
- ┃ ┃ ┃ ┣ 📜hospital10.png
- ┃ ┃ ┃ ┣ 📜hospital11.png
- ┃ ┃ ┃ ┣ 📜hospital12.png
- ┃ ┃ ┃ ┣ 📜hospital13.png
- ┃ ┃ ┃ ┣ 📜hospital14.png
- ┃ ┃ ┃ ┣ 📜hospital15.png
- ┃ ┃ ┃ ┣ 📜hospital16.png
- ┃ ┃ ┃ ┣ 📜hospital17.png
- ┃ ┃ ┃ ┣ 📜hospital18.png
- ┃ ┃ ┃ ┣ 📜hospital2.png
- ┃ ┃ ┃ ┣ 📜hospital3.png
- ┃ ┃ ┃ ┣ 📜hospital4.png
- ┃ ┃ ┃ ┣ 📜hospital5.png
- ┃ ┃ ┃ ┣ 📜hospital6.png
- ┃ ┃ ┃ ┣ 📜hospital7.png
- ┃ ┃ ┃ ┣ 📜hospital8.png
- ┃ ┃ ┃ ┗ 📜hospital9.png
- ┃ ┃ ┣ 📜check_b.png
- ┃ ┃ ┣ 📜check_w.png
- ┃ ┃ ┣ 📜feed-sample.jpg
- ┃ ┃ ┣ 📜img-placeholder.png
- ┃ ┃ ┣ 📜logo.png
- ┃ ┃ ┣ 📜profile_default.png
- ┃ ┃ ┣ 📜select-arrow.png
- ┃ ┃ ┗ 📜welcome.png
  ┃ ┗ 📜logo.png
  ┣ 📂components
  ┃ ┣ 📂accounts
@@ -206,9 +179,9 @@ skeleton-back 패키지 우클릭 -> run as -> Spring Boot App
 
 ## 🔌 Contributing
 
-### [Google 로그인 API](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a307/wikis/%F0%9F%93%9D-Google-%EB%A1%9C%EA%B7%B8%EC%9D%B8-API)
-### [Kakao 로그인 API](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a307/wikis/%F0%9F%93%9D-Kakao-%EB%A1%9C%EA%B7%B8%EC%9D%B8-API)
-### [QR코드 API](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a307/wikis/%F0%9F%93%9D-QR%EC%BD%94%EB%93%9C-API)
+### [Google 로그인 API](https://github.com/myh9410/GoodDoc-Proj/wiki/%F0%9F%93%9D-Google-%EB%A1%9C%EA%B7%B8%EC%9D%B8-API)
+### [Kakao 로그인 API](https://github.com/myh9410/GoodDoc-Proj/wiki/%F0%9F%93%9D-Kakao-%EB%A1%9C%EA%B7%B8%EC%9D%B8-API)
+### [QR코드 API](https://github.com/myh9410/GoodDoc-Proj/wiki/%F0%9F%93%9D-QR%EC%BD%94%EB%93%9C-API)
 
 ## ⭐  Develop Rules
 ### branch
@@ -222,12 +195,12 @@ merge 하기 전에 서로 코드 리뷰하기
 merge 후 브랜치 지우기
 ```
 
-### [commit 메시지](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a307/wikis/%F0%9F%93%9D-GIT-%EC%BB%A4%EB%B0%8B%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B6%84%EB%A5%98)
+### [commit 메시지](https://github.com/myh9410/GoodDoc-Proj/wiki/Git-Commit-%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B6%84%EB%A5%98)
 ```
 Emoji / 커밋내용(영문,70자 미만) / JIRA ISSUE No.
 ```
 
-### [개발 컨벤션](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a307/wikis/%F0%9F%93%9D-%EA%B0%9C%EB%B0%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)
+### [개발 컨벤션](https://github.com/myh9410/GoodDoc-Proj/wiki/%F0%9F%93%9D-%EA%B0%9C%EB%B0%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)
 ```
 Upper, Lower Camel Case
 
