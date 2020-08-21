@@ -1,4 +1,4 @@
-﻿![image](/uploads/f9f11cd2cffd91814e928b519f946885/image.png)
+![image](./doc/logo.png)
 
 ## 🎈 프로젝트 이름 : 굿닥터
 
@@ -238,4 +238,4 @@ findUserAndPassword(), searchFeedsByHospitalId() ...
 
 ## 📆 개발일정
 
-![image](/uploads/3167a12c25f99d267a766323917d9f9d/image.png)
+![image](./doc/developRange.png)
